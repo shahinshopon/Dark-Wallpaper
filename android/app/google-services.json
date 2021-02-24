@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "816817634481",
+    "firebase_url": "https://wallpaperappflutter-2b954.firebaseio.com",
+    "project_id": "wallpaperappflutter-2b954",
+    "storage_bucket": "wallpaperappflutter-2b954.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:816817634481:android:80747f282573704e767690",
+        "android_client_info": {
+          "package_name": "com.afransarkar123shadowtech.darkwallpaperapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "816817634481-pc298cek85k4jk6tjm9cvmapgt5h90dj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuTU6Yqz5XpnDdGhM74945YH24a2dC42M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "816817634481-pc298cek85k4jk6tjm9cvmapgt5h90dj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
